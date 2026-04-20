@@ -1,4 +1,0 @@
-import streamlit as st
-
-st.title("My First App 🚀")
-st.write("It works!")
